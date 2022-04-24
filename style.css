@@ -1,0 +1,49 @@
+body {
+  background-color: #ffffff
+    
+;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10% 15%
+
+}
+.name-header {
+  text-transform: uppercase;
+  color:#413535;
+}
+
+.info-header {
+  color:#413535 ;
+  border-bottom: 1px solid #dbbabb ;
+
+}
+.skills {
+  text-transform: uppercase;
+   color:#dbbabb;
+   
+}
+.exp-header {
+  text-transform: uppercase;
+   color:#dbbabb
+}
+.ed-header {
+  text-transform: uppercase;
+   color:#dbbabb
+}
+.project-header {
+  text-transform: uppercase;
+   color:#dbbabb
+}
+
+.bullets {
+  font-size: 14px;
+    color:#413535;  
+}
+h4, h5,h6 {
+  color: #413535;
+  line-height:1px
+}
+p {
+  font-size: 14px;
+    color:#493e3e;
+  
+}
